@@ -19,4 +19,5 @@ so that you are able to create your own project repositories and collaborate wit
 - Video 10:  [Creating Branches](https://youtu.be/AfNkSKM3rBg)
 - Video 11: [The Why Behind Merge Conflicts](https://youtu.be/0a5LfDcin0E)
 
-
+## Slide Deck 
+The [Slide Deck](https://github.com/aspratle/Git_GitHub_Tutorial/blob/main/SlideDeck.pdf) is all the slides shared across all videos.  The QR code on the Thank You slides will take you to that video! 
